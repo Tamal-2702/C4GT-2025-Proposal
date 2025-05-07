@@ -33,6 +33,20 @@ This project proposes a **modular AI Assistant** embedded into **Mifos Web App, 
 
 ---
 
+## 🧭 Justification for Issue Selection
+
+**Chosen Issue:** [#5 – AI for Voice Banking](https://github.com/openMF/community-ai/issues/5)
+
+This proposal is centered around building a **voice-first, multilingual AI Assistant** that enables voice commands, multilingual support, and conversational access to financial services — directly aligning with **Issue #5**.
+
+**Referenced Issues:**
+- [#4 – AI for Accessibility](https://github.com/openMF/community-ai/issues/4): Incorporates screen narration and multimodal interaction.
+- [Gazelle #38 – Runtime Narration](https://github.com/openMF/mifos-gazelle/issues/38): Addresses runtime UI narration.
+- [Mobile Wallet #1852 – Mobile UX Enhancements](https://github.com/openMF/mobile-wallet/issues/1852): Focuses on mobile accessibility integration.
+
+### By integrating these aspects, the project aims to create a **modular, cross-platform AI Assistant** that enhances accessibility and user experience across the Mifos ecosystem.
+---
+
 ## ⚙️ Tech Stack
 
 | Domain               | Tools / Libraries                             |
@@ -67,6 +81,16 @@ Each milestone is divided into GitHub issues with labels like `Feature`, `Enhanc
 | [AI Enhancer Add-on](https://github.com/openMF/community-ai/pull/21) | |
 
 
+---
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or fixes. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
 
 ## 👨‍💻 About Me
